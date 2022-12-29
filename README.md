@@ -1,5 +1,6 @@
 # cypress-basico-v2
 Descrevo aqui um pouco do projeto, que neste caso se trata da prática do curso de cypress!
+
 ## Pre requirements
 To have installed
 
@@ -23,3 +24,5 @@ run: npm run cy:open
 Run: npm run cy:open:mobile
 
 ## Support this project
+
+//maybe in the future
