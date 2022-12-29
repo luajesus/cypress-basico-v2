@@ -4,9 +4,9 @@ jobs:
   cypress-run:
     runs-on: ubuntu-20.04
     steps:
-      name: Checkout
+      -name: Checkout
       uses: actions/checkout@v2
       # Install NPM dependencies, cahe them correctly
       # and run  all cypress tests
-      name: Cypress run
+      -name: Cypress run
       uses: cypress-io/github-action@v2
