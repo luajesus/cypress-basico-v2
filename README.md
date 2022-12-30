@@ -18,10 +18,10 @@ Run 'npm run cy:open' to open cypress on interactive mode, then, choose the e2e 
 
 ## Desktop
 
-run: npm run cy:open
+run command: npm run cy:open
 
 ## Mobile
-Run: npm run cy:open:mobile
+Run command: npm run cy:open:mobile
 
 ## Support this project
 
